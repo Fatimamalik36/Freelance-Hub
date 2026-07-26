@@ -119,7 +119,7 @@ FreelanceHub
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/FreelanceHub.git
+https://github.com/Fatimamalik36/Freelance-Hub.git
 ````
 
 ---
